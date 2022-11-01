@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anteaterdave
 - 👀 I’m interested in strengthening my code muscles
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on beginner exercises
 - 📫 How to reach me: Dlandrews808@gmail.com
 
